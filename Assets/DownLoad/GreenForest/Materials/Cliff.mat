@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cliff
+  m_Shader: {fileID: 4800000, guid: 844b5adc59362154db6fc0cb3ae35eca, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f67c6ccdd0aa8f441bc80aba2ff14d85, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Skybox:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _A: 0.5
+    - _BumpStrength: 1
+    - _DistortionFactor: 1
+    - _FresnelFactor: 0.5
+    - _Gloss: 10
+    - _Glossiness: 17.38
+    - _L: 1
+    - _RimAmount: 0.55
+    - _RimThreshold: 0.177
+    - _S: 5
+    m_Colors:
+    - _AmbientColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
+    - _BumpDirection: {r: 0.01, g: 0.01, b: 0.02, a: -0.02}
+    - _BumpTiling: {r: 0.01, g: 0.01, b: 0.013, a: 0.013}
+    - _Color: {r: 0.5, g: 0.65, b: 1, a: 1}
+    - _DiffuseColor: {r: 0, g: 0, b: 0.8, a: 0.5}
+    - _Dx: {r: 0.5, g: 0.3, b: 0.1, a: 0.4}
+    - _Dz: {r: 0.5, g: 0.3, b: 0.2, a: 0.2}
+    - _MainTiling: {r: 0.01, g: 0.01, b: 0.013, a: 0.013}
+    - _QA: {r: 0.2, g: 0.2, b: 0.2, a: 0.2}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}

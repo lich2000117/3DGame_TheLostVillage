@@ -1,0 +1,53 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.03.2017 15:34:53
+
+newmtl Alien_Ore_003
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\win1\Desktop\????3\textures\RMH_Alien_Ore_003_BaseColor.png
+	map_Kd C:\Users\win1\Desktop\????3\textures\RMH_Alien_Ore_003_BaseColor.png
+	map_Ke C:\Users\win1\Desktop\????3\textures\RMH_Alien_Ore_003_Emissive.png
+	map_bump C:\Users\win1\Desktop\????3\textures\RMH_Alien_Ore_003_Normal.png
+	bump C:\Users\win1\Desktop\????3\textures\RMH_Alien_Ore_003_Normal.png
+
+newmtl Alien_Ore_002
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\win1\Desktop\???????\textures\RMH_Alien_Ore_002_AlbedoTransparency.png
+	map_Kd C:\Users\win1\Desktop\???????\textures\RMH_Alien_Ore_002_AlbedoTransparency.png
+	map_Ke C:\Users\win1\Desktop\???????\textures\RMH_Alien_Ore_002_Emission.png
+	map_bump C:\Users\win1\Desktop\???????\textures\RMH_Alien_Ore_002_Normal.png
+	bump C:\Users\win1\Desktop\???????\textures\RMH_Alien_Ore_002_Normal.png
+
+newmtl Alien_Ore_001
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\CG Model2\1??\????\textures\ao-001-uved_DefaultMaterial_BaseColor.png
+	map_Kd D:\CG Model2\1??\????\textures\ao-001-uved_DefaultMaterial_BaseColor.png
+	map_Ke D:\CG Model2\1??\????\textures\ao-001-uved_DefaultMaterial_Emissive.png
+	map_bump D:\CG Model2\1??\????\textures\ao-001-uved_DefaultMaterial_Normal.png
+	bump D:\CG Model2\1??\????\textures\ao-001-uved_DefaultMaterial_Normal.png
