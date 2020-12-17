@@ -2,7 +2,19 @@
 #### A group project of COMP30019 of The University of Melbourne ####
 <br />
 <p align="center">
-  <img src="images/game1.png"  width="800" >
+  <img src="images/game1.png"  width="1000" >
+</p>
+<p align="center">
+  <img src="images/game2.png"  width="1000" >
+</p>
+<p align="center">
+  <img src="images/game3.png"  width="1000" >
+</p>
+<p align="center">
+  <img src="images/game4.png"  width="1000" >
+</p>
+<p align="center">
+  <img src="images/game5.png"  width="1000" >
 </p>
 
 ## Table of contents
