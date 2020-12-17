@@ -125,7 +125,7 @@ Project is created with:
 **Water Shader (Yizhao Huang)**
 
 <p align="center">
-  <img src="water.gif"  width="800" >
+  <img src="images/water.gif"  width="800" >
 </p>
   *The water shown in this gif may look different from the water in game since they have different property values and attributes*
 </p>
@@ -143,14 +143,14 @@ Toon Shader is one of the artistic effects that converts the realistic world to 
 Firstly,
 Use normal procedure to create a standard shader, (Receive World Directional Light, Add normal, Dot Product to Calculate light strength and convert it to screen space.)
 <p align="left">
-  <img src="toon1.png"  width="300" >
+  <img src="images/toon1.png"  width="300" >
 </p>
 
 Then,
 var lightStrength
 As Cartoon-like world may not have progressively changed light, change it to dark / light only or have four degree of brightness with ambient light added in while we use “light = lightStrengh * _LightColor0” to calculate world light.
 <p align="left">
-  <img src="toon2.png"  width="300" >
+  <img src="images/toon2.png"  width="300" >
 </p>
 
 Thirdly, Blinn-Phong Reflection
@@ -162,7 +162,7 @@ The final value is a float calculated through the dot product between HalfVector
 Finally, use smoothstep() function to make the reflection changes suddenly between pixels to make the artistic effects.
 
 <p align="left">
-  <img src="toon3.png"  width="300" >
+  <img src="images/toon3.png"  width="300" >
 </p>
 
 
@@ -174,14 +174,14 @@ Calculate var rimLight = 1 - dot(viewDir, normal).
 Simply add rimLight to the final Coordinate, get following effect:
 
 <p align="left">
-  <img src="toon4.png"  width="300" >
+  <img src="images/toon4.png"  width="300" >
 </p>
 
 Alternative:
 Also if  rimLight = dot(viewDir, normal), the light is actually reduced at the edge of the object since the dot product ranged between (-1,1), can be negative:
 
 <p align="left">
-  <img src="toon5.png"  width="300" >
+  <img src="images/toon5.png"  width="300" >
 </p>
 
 
@@ -191,7 +191,7 @@ Use var rimIntensity as the intensity of rim effect, we use smoothstep() again t
 Use rimLight * pow(BlinnStrength, _RimThreshold);  Set up the threshold and Reflection amount by quadratic.
 
 <p align="left">
-  <img src="toon6.png"  width="300" >
+  <img src="images/toon6.png"  width="300" >
 </p>
 
 Shadows:
@@ -207,13 +207,13 @@ Not only multiply this with light factor to create shadows,
 Also multiply this factor with reflection light so it doesn’t generate reflection under Shadows.
 
 <p align="left">
-  <img src="toon7.png"  width="300" >
+  <img src="images/toon7.png"  width="300" >
 </p>
 <p align="left">
-  <img src="toon8.png"  width="300" >
+  <img src="images/toon8.png"  width="300" >
 </p>
 <p align="left">
-  <img src="toon9.png"  width="300" >
+  <img src="images/toon9.png"  width="300" >
 </p>
 
 <br />
@@ -463,7 +463,7 @@ ________________________________________________________________________________
 ## Evaluation Feedback and Changes
 
 <p align="center">
-  <img src="feedback.png"  width="1200" >
+  <img src="images/feedback.png"  width="1200" >
 </p>
 <br />
 
