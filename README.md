@@ -22,12 +22,12 @@ Final Commit Id: 685d787394ad9e19e2e27b91d50bbdcb8aefb7b9
 
 ## Team Members and Contributions
 
-| Name | ID | Main Task | State | Contribution |
-| :---         |    :---:      |     :---:      |   :---: | ---:|
-| Yizhao Huang  | 981102 | NPC & Shader   |  Done | 25% |
-| Chenghao Li    | 1067999 | Terrain Scene & Shader     |  Done | 25% |
-| Aonan Zhang    | 981136 | Main Character & UI      | Done | 25% |
-| Yutong Wu    | 880445 | Dialogue(Mission) System & UI     | Done | 25% |
+| Name | ID |
+| :---         |    :---:      |
+| Yizhao Huang  | ******* |
+| Chenghao Li    | ******* |
+| Aonan Zhang    | ******* |
+| Yutong Wu    | ******* |
 
 <br />
 
