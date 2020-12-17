@@ -1,6 +1,9 @@
 # TheLostVillage_RPG_GAME
 #### A group project of COMP30019 of The University of Melbourne ####
 <br />
+<p align="center">
+  <img src="images/game1.gif"  width="800" >
+</p>
 
 ## Table of contents
 * [Team Members and Contributions](#team-members-and-contributions)
