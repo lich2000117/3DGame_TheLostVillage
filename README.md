@@ -1,6 +1,5 @@
-**The University of Melbourne**
-# COMP30019 – Graphics and Interaction
-
+# TheLostVillage_RPG_GAME
+**** A group project of COMP30019 of The University of Melbourne****
 <br />
 
 ## Table of contents
