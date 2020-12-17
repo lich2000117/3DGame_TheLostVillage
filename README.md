@@ -1,10 +1,6 @@
 **The University of Melbourne**
 # COMP30019 – Graphics and Interaction
 
-Video Link: https://www.youtube.com/watch?v=zKx6vPUyOJk
-
-Final Commit Id: 685d787394ad9e19e2e27b91d50bbdcb8aefb7b9
-
 <br />
 
 ## Table of contents
